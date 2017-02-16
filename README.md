@@ -16,6 +16,10 @@ This file is meant to be the single, multi-topic file until we reach larger size
 - [PostgreSQL 9.0 High Performance - Gregory Smith](https://www.amazon.com/PostgreSQL-High-Performance-Gregory-Smith/dp/184951030X/ref=sr_1_1?ie=UTF8&qid=1343995455&sr=8-1&keywords=postgresql)
 - [PostgreSQL: Up and Running: A Practical Introduction to the Advanced Open Source Database 2nd Edition - Regina O. Obe, Leo S. Hsu](https://www.amazon.com/PostgreSQL-Practical-Introduction-Advanced-Database/dp/1449373194/ref=sr_1_1?ie=UTF8&qid=1485511506&sr=8-1&keywords=postgresql+up+and+running)
 
+# Articles
+
+- [Is Postgres good enough - broadly about postgres and its non-standard uses.](http://renesd.blogspot.com/2017/02/is-postgresql-good-enough.html)
+
 # Tools
 
 ## File navigation
