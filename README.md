@@ -24,3 +24,6 @@ This file is meant to be the single, multi-topic file until we reach larger size
 
 ## File navigation
 - [The Silver Searcher](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to `ack`, with a focus on speed.
+
+## Device synchronisation
+- [syncthing](https://syncthing.net/) - Decentralised file synchronisation between devices.
