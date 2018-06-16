@@ -22,8 +22,26 @@ This file is meant to be the single, multi-topic file until we reach larger size
 
 # Tools
 
-## File navigation
-- [The Silver Searcher](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to `ack`, with a focus on speed.
+## Text search
+Ordered by apparent search speed (no real benchmarks were done).
+
+1. [ripgrep](https://github.com/BurntSushi/ripgrep)
+2. [sift](https://github.com/svent/sift)
+3. [The Silver Searcher](https://github.com/ggreer/the_silver_searcher)
+4. [ucg](https://github.com/gvansickle/ucg)
+5. [ack](https://github.com/beyondgrep/ack2)
+6. [GNU grep](http://www.gnu.org/software/grep/)
+7. [The Platinum Searcher](https://github.com/monochromegane/the_platinum_searcher)
+
+Opinionated benchmarks:
+* https://blog.burntsushi.net/ripgrep/
+* https://sift-tool.org/performance
+
+Feature comparison: https://beyondgrep.com/feature-comparison/
+
+Extras:
+
+- [ngrep](https://github.com/jpr5/ngrep) - search inside the network traffic
 
 ## Device synchronisation
 - [syncthing](https://syncthing.net/) - Decentralised file synchronisation between devices.
